@@ -1,5 +1,7 @@
 package com.lista1.lista1;
 
+import java.util.Scanner;
+
 public class Exo1 {
     public static void resolucao1(){
         int numero1;
