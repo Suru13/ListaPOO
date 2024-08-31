@@ -10,7 +10,8 @@ public class Lista1Application {
 		SpringApplication.run(Lista1Application.class, args);
 		//Exo1.resolucao1();
 		//Exo2.resolucao2();
-		Exo3.resolucao3();	
+		//Exo3.resolucao3();
+		Exo4.resolucao4();	
 	}
 	
 }
